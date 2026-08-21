@@ -1,0 +1,5 @@
+model,params,test_loss,test_ppl,bleu1,bleu4
+Simple RNN,3014450,4.941,139.91,23.93,0.05
+Encoder-Decoder (Seq2Seq),4660018,3.628,37.633,40.28,6.76
+Additive Attention (Bahdanau),6281522,2.794,16.343,57.79,21.7
+Multiplicative Attention (Luong),3804210,2.97,19.496,55.19,18.76

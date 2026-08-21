@@ -1,0 +1,5 @@
+english,Simple RNN,Encoder-Decoder (Seq2Seq),Additive Attention (Bahdanau),Multiplicative Attention (Luong)
+I am a student.,tom no que que de que <unk> .,soy un . .,soy estudiante estudiante .,soy estudiante .
+She is reading a book in the library.,tom no que que de que <unk> .,ella es un un en un . .,ella está leyendo una libro en la biblioteca .,ella leyendo una libro en la biblioteca .
+We need to protect our environment.,tom no que que de que <unk> .,tenemos que <unk> <unk> .,necesitamos que nuestro deber <unk> .,necesitamos <unk> nuestro <unk> .
+Can you help me solve this problem?,¿ qué qué ?,¿ me puedo hablar este este ? ?,¿ puede ayudarme a este problema problema ?,¿ puedes ayudarme a este problema ?

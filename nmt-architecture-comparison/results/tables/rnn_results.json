@@ -1,0 +1,1 @@
+{"model": "Simple RNN", "params": 3014450, "test_loss": 4.941, "test_ppl": 139.91, "bleu1": 23.93, "bleu4": 0.05}

@@ -1,0 +1,1 @@
+{"model": "Multiplicative Attention (Luong)", "params": 3804210, "test_loss": 2.97, "test_ppl": 19.496, "bleu1": 55.19, "bleu4": 18.76}

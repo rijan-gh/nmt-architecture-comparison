@@ -1,0 +1,1 @@
+{"model": "Additive Attention (Bahdanau)", "params": 6281522, "test_loss": 2.794, "test_ppl": 16.343, "bleu1": 57.79, "bleu4": 21.7}

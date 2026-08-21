@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Trained checkpoints can be large; keep them out of git history.
+# Remove this line if you want to commit final checkpoints for reproducibility.
+models/*.pt
+
+.venv/
+venv/
